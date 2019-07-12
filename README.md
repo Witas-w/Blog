@@ -29,7 +29,7 @@
     </head>
     <body>
  <nav>
-        <a href="https://witas-w.github.io/strona-g-wna/
+        <a href="https://witas-w.github.io/WITAS-bloguje/
 " class="v">główna</a>
         <a href="" class="v">blog</a>
         <a href="https://witas-w.github.io/witas/
