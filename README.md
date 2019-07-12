@@ -32,7 +32,7 @@
     <body>
  <nav>
         <a href="https://witas-w.github.io/strona-g-wna/
-" class="v">glówna</a>
+" class="v">główna</a>
         <a href="" class="v">blog</a>
         <a href="https://witas-w.github.io/witas/
 " class="v">Wakacje 2019</a>
