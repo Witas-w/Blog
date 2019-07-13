@@ -35,6 +35,6 @@
         <a href="https://witas-w.github.io/witas/
 " class="v">Wakacje 2019</a>
     </nav>
-
+    <p><strong>Obecnie jestem na wakacjach więc blog na tej stronie nie działa</strong></p>
     </body>
 </html>
