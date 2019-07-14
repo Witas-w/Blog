@@ -4,32 +4,38 @@
         <meta charset="utf-8">
         <title>blog</title>
         <style>
-           body{
-            background-color: grey;
+            body {
+            background-color: rgb(225, 230, 212);
+             margin: none;
+             text-align: center;
+             font-family: cursive;
+              border: 1px solid rgb(230, 25, 25);
+        }
+           nav{
             text-align: center;
-            }
-            nav{
-                background-color:rgb(90, 199, 36);
-                       text-align:center;
-                 line-height:2.3;
-            }
+            font-size:20px;
+          background: rgb(175, 209, 209);
+          line-height: 2.3em;
+          border-bottom:2px solid rgb(0, 0, 0);
+        
+        }
             .v{
-                color: white;
-                font-size: 17px;
-                text-decoration: none;
-         
+                 color:rgb(255, 255, 255);
+          font-style: serif;
+          text-decoration: none;
             }
-             a:hover{
-                 background-color:rgb(14, 172, 245);
-             }
-             a:active{
-                 background-color:rgb(171, 170, 127);
-             }
+            a:hover { 
+                background-color: rgb(177, 186, 224);
+         
+            }  
+            a:active{
+                background:rgb(115, 140, 105);
+            }
         </style>
     </head>
     <body>
  <nav>
-        <a href="https://witas-w.github.io/WITAS-bloguje/
+        <a href="https://witas-w.github.io/witas-bloguje/
 " class="v">główna</a>
         <a href="" class="v">blog</a>
         <a href="https://witas-w.github.io/witas/
