@@ -5,7 +5,8 @@
         <title>blog</title>
         <style>
             body {
-            background-color: rgb(225, 230, 212);
+            background-color: grey;
+            color: white;
              margin: none;
              text-align: center;
              font-family: cursive;
@@ -57,7 +58,13 @@
     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
                 inset 2px 2px 3px rgba(0, 0, 0, .6);
 }
-
+#b{
+font-family: sans-serif;
+border-bottom: 3px solid red;
+} 
+table {
+color: black;
+} 
         </style>
     </head>
     <body>
@@ -68,7 +75,7 @@
         <a href="https://witas-w.github.io/witas/
 " class="v">Wakacje 2019</a>
     </nav>
-    <h2>Blog</h2>
+    <h2 id="b" >Blog</h2>
   <a href="#DD"><button class="styled"
         type="button">
    Dzień dzisiejszy
