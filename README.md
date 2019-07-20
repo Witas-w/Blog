@@ -272,6 +272,6 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
    <p>Dziś rano poszliśmy do portu. Gdy do niego weszliśmy odbywało się wodowanie statku <strong>Hollendaren</strong> zbudowanego przez firmę <em>AKVA group</em>. Podczas zanurzania doku gdy wyciągano statek liną podpłynęły dwa statki Złota rybka i Lucek. Podczas obrotu statku zahaczył on oponami o nabrzeże, dok i barierkę. Po wodowaniu statku stanął on przy nabrzeżu stoczni. Po pobycie w porcie poszliśmy na obiad. Następnie idąc promenadą poszliśmy do portu gdzie widzieliśmy statek SM PRC 112 pogłębiający kanał portowy i cztery statki brytyjskie należące do NATO. Przeszliśmy się także ulicą Grunwaldzką do Pasażu Bałtyckiego i Mariny. Wieczorem poszliśmy na plażę zachodnią. Wykopałem tam duży most z piasku. </p>
     <img src="https://i.ibb.co/SJY9YGX/D8-B9-A7-E4-D769-4727-8-AD1-5730409-B15-BE.png">
    <img src="https://i.ibb.co/HF6M6bV/81-A58662-34-C0-493-B-B211-A59-C36416-B70.jpg">
-https://i.ibb.co/nj074kK/074-B68-BA-5-C32-4-A10-8-A89-7-D69-F6-C318-A4.png
+   <img src="https://i.ibb.co/nj074kK/074-B68-BA-5-C32-4-A10-8-A89-7-D69-F6-C318-A4.png">
  </body>
 </html>
