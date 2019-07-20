@@ -74,6 +74,7 @@ color: black;
         <a href="" class="v">blog</a>
         <a href="https://witas-w.github.io/witas/
 " class="v">Wakacje 2019</a>
+<a href="https://witas-w.github.io/zdjecia-galeria/" class="v">galeria zdjęć</a>
     </nav>
     <h2 id="b" >Blog</h2>
   <a href="#DD"><button class="styled"
