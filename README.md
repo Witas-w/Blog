@@ -274,5 +274,9 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     <img src="https://i.ibb.co/SJY9YGX/D8-B9-A7-E4-D769-4727-8-AD1-5730409-B15-BE.png">
    <img src="https://i.ibb.co/HF6M6bV/81-A58662-34-C0-493-B-B211-A59-C36416-B70.jpg">
    <img src="https://i.ibb.co/nj074kK/074-B68-BA-5-C32-4-A10-8-A89-7-D69-F6-C318-A4.png">
+    <h3 id="DD">20.07.2019r.</h3>
+    <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em>. W galerii zdjęć znajdują się zdjęcia panoramy Ustki. Następnie poszliśmy na promenadę i na pączki. W porcie statek SM PRC 112 nadal pogłębia kanał portowy. Potem poszliśmy na ulicę Marynarki. Wieczorem poszliśmy na plażę zachodnią. Tam oglądaliśmy zachód słońca.</p>
+    
+    
  </body>
 </html>
