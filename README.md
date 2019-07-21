@@ -240,7 +240,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   <p>Dzisiaj poszliśmy na obiad. Po nim przeszliśmy się plażą do Perły. Następnie wróciliśmy do domu zahaczając o <em>Górę Lodową</em>. Wieczorem wyszliśmy przejść się po okolicy</p>
   <h3>16.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em> na  kawę i lody. Następnie przeszliśmy się promenadą do portu. W porcie stoją dwa nowe statki Imor i Mewo Navigator. Imor ostatnio był w Ustce podczas budowy kładki.Wieczorem poszliśmy jeszcze do Lidla na zakupy.</p>
-  <h2>O statkach</h2>
+  <h2 id="os">O statkach</h2>
   <table>
     <thead>
         <tr>
@@ -274,9 +274,11 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     <img src="https://i.ibb.co/SJY9YGX/D8-B9-A7-E4-D769-4727-8-AD1-5730409-B15-BE.png">
    <img src="https://i.ibb.co/HF6M6bV/81-A58662-34-C0-493-B-B211-A59-C36416-B70.jpg">
    <img src="https://i.ibb.co/nj074kK/074-B68-BA-5-C32-4-A10-8-A89-7-D69-F6-C318-A4.png">
-    <h3 id="DD">20.07.2019r.</h3>
+    <h3>20.07.2019r.</h3>
     <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em>. W galerii zdjęć znajdują się zdjęcia panoramy Ustki. Następnie poszliśmy na promenadę i na pączki. W porcie statek SM PRC 112 nadal pogłębia kanał portowy. Potem poszliśmy na ulicę Marynarki. Wieczorem poszliśmy na plażę zachodnią. Tam oglądaliśmy zachód słońca.</p>
     
+    <h3 id="DD">21.07.2019r.</h3>
+    <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em>. Tam wypiłem sok pomarańczowy i obejrzałem panoramę Ustki z dachu hotelu. Następnie przechodząc promenadą oglądaliśmy stoiska górali. Wchodząc do portu wstąpiliśmy na pączki do <em>Starej pączkarni</em>. Do portu przypłynął statek badawczy Mewo navigator, o którym można przeczytać w <a href="#os">tabeli z dnia 16.07.2019r.</a> Po pobycie w porcie skierowaliśmy się do domu. Wieczorem poszliśmy na plażę zachodnią gdzie zbudowałem most z piasku. </p>
     
  </body>
 </html>
