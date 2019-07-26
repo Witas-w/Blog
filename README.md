@@ -66,6 +66,10 @@ border-bottom: 3px solid red;
 table {
 color: black;
 } 
+a {
+color: black;
+}
+
         </style>
     </head>
     <body>
